@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: ICS 111 Final Project
-permalink: projects/micromouse
+permalink: projects/ics111
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-28
 labels:
