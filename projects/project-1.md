@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Snakegame.jpg
+image: images/snake.png
 title: ICS 111 Final Project
 permalink: projects/ics111
 # All dates must be YYYY-MM-DD format!
