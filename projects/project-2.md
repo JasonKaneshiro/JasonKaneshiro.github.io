@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: ICS 212 Project
-permalink: projects/vacay
+permalink: projects/ics212project
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-21
 labels:
