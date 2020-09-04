@@ -11,7 +11,7 @@ labels:
   - C++
 summary: A Database Project that I had to wrok on for ICS 212.
 ---
- <img class="ui centered medium image" src="/images/databaseheader.png">
+ <img class="ui centered medium image" src="/images/databaseheader(1).png">
 
 I had to make a code for ICS 212 and it was to make a Database in C. This project for me was very difficult. This was the first project that I had to do in C and It was a difficult one for me. This project taught me how to think about code in a new way. There were a lot of complicated steps that had to be done in order for the code to work. I feel like the one thing that made it difficult for me was the UI(user interface). This was also frustrating not being able to look through the entire code. This was because we used UNIX.
 
