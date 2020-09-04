@@ -14,12 +14,10 @@ labels:
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img src="../images/database.png" >
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I had to make a code for ICS 212 and it was to make a Database in C. This project for me was very difficult. This was the first project that I had to do in C and It was a difficult one for me. This project taught me how to think about code in a new way. There were a lot of complicated steps that had to be done in order for the code to work. I feel like the one thing that made it difficult for me was the UI(user interface). This was also frustrating not being able to look through the entire code. This was because we used UNIX.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The Second half of this was to convert it to C++. At first I thought the hard part was over. To my surprise the conversion to C++ was just as hard as making the database. This introduced a lot of problems. Now that we had classes we could use. This was almost as hard as the first part but we had out part 1 that we could use so we didn’t have to start from scratch but that's what it felt like. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Overall this project was a pain for me but has taught me many things about coding. It gave me a new perspective to think of big projects and coding in C and C++. This also made me think more highly of people who code user friendly interfaces and big projects because this project was a lot of trial and error for me.
