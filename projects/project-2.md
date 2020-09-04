@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/databaseicon.png
+image: images/database(2).png
 title: ICS 212 Project
 permalink: projects/ics212project
 # All dates must be YYYY-MM-DD format!
