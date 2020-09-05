@@ -9,7 +9,7 @@ labels:
   - Learning
   - Goals
 ---
-<img class="ui medium rightfloated rounded image" src="../images/Leader vs Boss.jpg">
+<img class="ui medium centered floated rounded image" src="../images/Future.jpg">
 
 ## Interests...
 My Interests in Software engineering ... Where do I start? I feel like software engineering covers a lot involving computer science. I don’t 100% know what exactly they do but to my knowledge they develop software that is used to help others. Software that can be a website or a game and many other things the list goes on. The software that runs your smartphone, smart watch and computers. Software is literally everywhere and so useful to everyone that uses it. This is why I'm so interested and excited about software.
