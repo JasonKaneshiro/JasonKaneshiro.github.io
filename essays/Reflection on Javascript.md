@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Reflection on Javascript
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-09
+date: 2020-09-01
 labels:
   - Software Engineering
   - Learning
