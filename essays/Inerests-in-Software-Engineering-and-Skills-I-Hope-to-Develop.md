@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Interests in Software Engineering and Skill I Hope to Develop
 # All dates must be YYYY-MM-DD format!
-date: 2020-03-09
+date: 2020-09-03
 labels:
   - Software Engineering
   - Learning
