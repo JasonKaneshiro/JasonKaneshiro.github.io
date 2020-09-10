@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflection on Javascript
+title: Beginning on Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-01
 labels:
@@ -10,7 +10,7 @@ labels:
 ---
 <img src="../images/Web-Development.png" >
 
-## Reflection on Javascript
+## Beginning on Javascript
 
 To start I have no prior experience coding in Javascript. So going into it I was ready to revisit Java. I am very familiar with Java and enjoy using it so I was really excited to learn Javascript. To my surprise the transition from Java to Javascript was very easy. The one thing that I really enjoy about javascript is that you don’t need to define your variables. This and a lot of other simpler ideas that makes me enjoy Javascript.There is also weird ways you can make fucntions and other stuff in Javascript that can make it harder to read but it will take time to get use to it. So far in my journey to master Javascript I am enjoying the language and looking forward to seeing what else it can do.
 
