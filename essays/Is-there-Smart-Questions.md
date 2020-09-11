@@ -7,7 +7,7 @@ date: 2020-09-10
 labels:
   - Learning
 ---
-<img src="../images/question.jpg" >
+<img class="ui medium centered floated rounded image" src="../images/question.jpg">
 
 ## What is a smart question
 
