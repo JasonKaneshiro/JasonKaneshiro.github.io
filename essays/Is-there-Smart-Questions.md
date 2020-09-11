@@ -7,7 +7,7 @@ date: 2020-09-10
 labels:
   - Learning
 ---
-
+<img src="../images/question.jpg" >
 ## What is a smart question
 
 Growing up I was taught that there’s no such thing as a dumb question by many of my teachers. But now I’m here asking: is there a smart question? Well after reading Eric Raymond’s, "How to ask questions the smart way" I was enlightened on what a smart question is. I’ve learned that smart questions should have processes in asking them. You should first look for the answer in frequents spots so see if someone asked this question(ex. In the FAQ or on Google) . This is so you don’t re ask the question making you look like you haven’t done anything and just want to ask. This is an inconvenience for people answering the question you may have asked. This made me rethink what I've been taught throughout my years and I still believe that there are no dumb questions but there are question that you can ask that are more effecent to ask.
