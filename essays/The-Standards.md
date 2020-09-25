@@ -9,7 +9,7 @@ labels:
   - Coding Standard
 ---
 
-<img src="../images/eslint_logo.png" >
+<img src="../images/eslint.png" >
 
 ## The Standard ...
 
