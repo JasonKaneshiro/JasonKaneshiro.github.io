@@ -9,7 +9,7 @@ labels:
   - Coding Standard
 ---
 
-<img src="../images/eslint.png" >
+<img class="ui medium right floated rounded image" src="../images/eslint.png">
 
 ## The Standard ...
 
