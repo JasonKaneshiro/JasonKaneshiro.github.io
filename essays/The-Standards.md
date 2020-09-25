@@ -10,6 +10,7 @@ labels:
 ---
 
 <img src="../images/eslint_logo.png" >
+
 ## The Standard ...
 
 The “coding standards” what is a standard and why do we need to follow this standard. These are the questions that popped up when I first heard of this. But just like essays or a recipe there is a way you should write it. There are many ways to write it and it depends on what you want to do. So it’s just like with code this was what I thought this was. This makes the code easy to read and see what is happening and making it easier to understand. This is mostly due to the spacing that the coding standard forces you to put. This is all great and all but when typing the code … it's a all new problem.
