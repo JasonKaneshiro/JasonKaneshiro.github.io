@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Behind the Scenes of UI
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-24
+date: 2020-10-8
 labels:
   - Learning
   - UI
