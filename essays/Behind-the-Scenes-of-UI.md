@@ -9,6 +9,7 @@ labels:
   - UI
 ---
 <img class="ui medium right floated rounded image" src="../images/user-interface.png">
+
 ## Behind the Scenes of UI
 
 Looking at a website you are first presented with a user interface this is what everyone sees when they look at your website. It looks good on the eyes and is very appealing. Looks and seams easy to do right? Welp I’m here to say that it's not as simple as it may seem. Using HTML and CSS to make a website by itself is not the best way in looking at things. We are very limited to what we can produce using just the raw forms of these languages. We can create websites using them but there are better ways in which we can achieve this. Knowing this we used something called Semantic UI. 
