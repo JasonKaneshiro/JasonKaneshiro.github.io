@@ -9,7 +9,7 @@ labels:
   - Reflection
   - Software Engineering
 ---
-<img src="../images/End.png" >
+<img class="ui medium right floated rounded image" src="../images/End.png" >
 
 ## Reflection:
 Over this semester I have learned a lot by taking ICS 314, which is the Software Engineering course here at University of Hawaii. The 3 most important takeaways from this class in my opinion would be functional programming, agile project management, and design patterns. I feel like these are very important topics and it would apply to other things besides software engineering. I can see me applying these to real world situations and my future career as I travel through this long journey.
