@@ -33,6 +33,12 @@
       "keywords": [
       ]
     },
+     {
+      "name": "AI",
+      "keywords": [
+      ]
+    }
+  ],
     {
       "name": "Game/App Development",
       "keywords": [
@@ -47,7 +53,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML"
       ]
     },
     {
