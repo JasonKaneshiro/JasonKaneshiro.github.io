@@ -21,5 +21,7 @@ My contribution to this project was creating the landing page, calendar page, an
 Overall this was an eye opening experience. It really helped me understand working with a group to make a functional application. It also helps me understand how working through github can actually be pretty simple. I really enjoyed the project board feature where we are able to see what people are working on. All these functions were really cool to work with.This help be better my understanding with software development as a whole.
 
 You can view all the details down below:
+
 A live deployment of Study-ext is available at [https://study-ext.xyz](https://study-ext.xyz).
+
 A link to the project page is available at [https://study-ext.github.io/](https://study-ext.github.io/) where you are also avalible to view it on GitHub.
