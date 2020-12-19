@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/leadership-icon.png
+image: images/Final-home.png
 title: Study-ext Application
 permalink: projects/Study-ext-Application
 # All dates must be YYYY-MM-DD format!
