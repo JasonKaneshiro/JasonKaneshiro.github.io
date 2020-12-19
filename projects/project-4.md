@@ -24,4 +24,6 @@ You can view all the details down below:
 
 A live deployment of Study-ext is available at [https://study-ext.xyz](https://study-ext.xyz).
 
-A link to the project page is available at [https://study-ext.github.io/](https://study-ext.github.io/) where you are also avalible to view it on GitHub.
+A link to the project page is available at [https://study-ext.github.io/](https://study-ext.github.io/).
+
+A link to the GitHub page is available at [https://github.com/Study-ext/study-ext](https://github.com/Study-ext/study-ext).
